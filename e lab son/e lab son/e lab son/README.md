@@ -1,8 +1,6 @@
 E-Laboratuvar İmmünoglobulin Analiz Sistemi
 
-ISIM/ MUHHAMMED RECEP
-ÖĞRENCİ NO/ G201210594
-2.A
+
 
 Özellikler
 
